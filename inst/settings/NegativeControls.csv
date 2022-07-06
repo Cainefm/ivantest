@@ -1,0 +1,15 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1779650,1779657,434327,Cannabis abuse,outcome
+1779650,1779657,201612,Alcoholic liver damage,outcome
+1779650,1779657,432513,Animal bite wound,outcome
+1779650,1779657,4171556,Ankle ulcer,outcome
+1779650,1779657,3654971,Burn of digit of hand,outcome
+1779650,1779657,75121,Burn of lower leg,outcome
+1779650,1779657,200461,Endometriosis of uterus,outcome
+1779650,1779657,196347,Intestinal parasitism,outcome
+1779650,1779657,4147016,Open wound of buttock,outcome
+1779650,1779657,80286,Prosthetic joint loosening,outcome
+1779650,1779657,74194,Sprain of spinal ligament,outcome
+1779650,1779657,4194207,Tailor's bunion,outcome
+1779650,1779657,37117100,Tailor's bunion of left foot,outcome
+1779650,1779657,37108619,Tailor's bunion of right foot,outcome
